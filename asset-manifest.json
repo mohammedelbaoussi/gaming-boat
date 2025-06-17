@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gaming-boat/static/css/main.e87479b6.css",
+    "main.js": "/gaming-boat/static/js/main.caab2f74.js",
+    "static/js/453.8ab44547.chunk.js": "/gaming-boat/static/js/453.8ab44547.chunk.js",
+    "static/media/Ag1_09.jpg": "/gaming-boat/static/media/Ag1_09.ce79830650b96feb3660.jpg",
+    "static/media/thumb-1920-1326064.jpeg": "/gaming-boat/static/media/thumb-1920-1326064.40c32bf586157380e170.jpeg",
+    "static/media/logo.svg": "/gaming-boat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gaming-boat/index.html",
+    "main.e87479b6.css.map": "/gaming-boat/static/css/main.e87479b6.css.map",
+    "main.caab2f74.js.map": "/gaming-boat/static/js/main.caab2f74.js.map",
+    "453.8ab44547.chunk.js.map": "/gaming-boat/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e87479b6.css",
+    "static/js/main.caab2f74.js"
+  ]
+}
